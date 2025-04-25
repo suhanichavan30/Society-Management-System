@@ -2,6 +2,10 @@
 
 A full-featured web application designed to streamline society management by providing separate panels for **Admins** and **Owners**. Built using the **MERN stack**, this system handles everything from room information and visitor tracking to complaints, notices, and online payments with **Stripe**. It also uses **Nodemailer** to send automatic confirmation emails upon successful maintenance payments.
 
+
+Live demo of project
+Link: https://societyconnect-coral.vercel.app/
+for admin login : Email: admin@gmail.com   password:12345
 ---
 
 ## 🚀 Features
